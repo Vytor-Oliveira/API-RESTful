@@ -1,4 +1,3 @@
-cl
 # 🧪 API RESTful - CRUD de Usuários (Node.js + SQLite + Sequelize)
 
 Este é um projeto simples de uma API RESTful construída com **Node.js**, **Sequelize** e **SQLite**, voltada para fins educacionais e testes locais. A API permite operações básicas de CRUD (Create, Read, Update, Delete) com usuários.
